@@ -2,7 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+lesson_08/.env
 # C extensions
 *.so
 
@@ -150,7 +150,7 @@ activemq-data/
 *.sage.py
 
 # Environments
-.env
+lesson_08/.env
 .envrc
 .venv
 env/
